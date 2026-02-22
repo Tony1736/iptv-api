@@ -1,17 +1,25 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Tony1736/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.136:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-22 17:07:27
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.112:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-22 23:33:12
 http://125.43.249.130:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="http://10.1.0.136:5180/logo/CCTV-2.png" group-title="📺央视频道",CCTV-2
+#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="http://10.1.0.112:5180/logo/CCTV-2.png" group-title="📺央视频道",CCTV-2
 http://125.43.249.130:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="http://10.1.0.136:5180/logo/CCTV-11.png" group-title="📺央视频道",CCTV-11
+#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="http://10.1.0.112:5180/logo/CCTV-5.png" group-title="📺央视频道",CCTV-5
+http://125.43.249.130:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="http://10.1.0.112:5180/logo/CCTV-9.png" group-title="📺央视频道",CCTV-9
+http://125.43.249.130:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="http://10.1.0.112:5180/logo/CCTV-11.png" group-title="📺央视频道",CCTV-11
 http://125.43.249.130:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="http://10.1.0.136:5180/logo/CCTV-14.png" group-title="📺央视频道",CCTV-14
+#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="http://10.1.0.112:5180/logo/CCTV-14.png" group-title="📺央视频道",CCTV-14
 http://125.43.249.130:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://10.1.0.136:5180/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://10.1.0.112:5180/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://10.1.0.112:5180/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://125.43.249.130:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://10.1.0.136:5180/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://125.43.249.130:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://10.1.0.136:5180/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
-http://125.43.249.130:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://10.1.0.136:5180/logo/云南卫视.png" group-title="📡卫视频道",云南卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://10.1.0.112:5180/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://125.43.249.130:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://10.1.0.112:5180/logo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+http://125.43.249.130:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://10.1.0.112:5180/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
+http://125.43.249.130:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://10.1.0.112:5180/logo/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://125.43.249.130:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
